@@ -1,0 +1,38 @@
+_repo: O-cancioneiro-portuguez-da-Vaticana_11299
+_version: 0.0.1
+alternative_title: O cancioneiro português da Vaticana
+creator:
+  author:
+    agent_name: Braga, Teófilo
+    aliases:
+    - Braga, Joaquim Theophilo Fernandes
+    - Braga, Joaquim Teófilo Fernandes
+    - Fernandes Braga, Joaquim Theophilo
+    - Braga, Theophilo
+    birthdate: 1843
+    deathdate: 1924
+    gutenberg_agent_id: '3929'
+    url: http://www.gutenberg.org/2009/agents/3929
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Teófilo_Braga
+    - http://pt.wikipedia.org/wiki/Teófilo_Braga
+description: "Produced by Distributed Proofreaders Europe, http://dp.rastko.net\r\n\
+  Project by Carlo Traverso and Moises Gaudencio\r\nThis file was produced from images\
+  \ generously made available by the\r\nBibliothèque nationale de France (BnF/Gallica)\
+  \ at http://gallica.bnf.fr."
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11299'
+language: pt
+language_note: This ebook uses a 19th century spelling
+publication_note: (Zeitschrift für Romanische Philologie, 1877)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese poetry -- To 1500'
+- !lcc 'PQ'
+- GITenberg
+title: O cancioneiro portuguez da Vaticana
+url: http://www.gutenberg.org/ebooks/11299
