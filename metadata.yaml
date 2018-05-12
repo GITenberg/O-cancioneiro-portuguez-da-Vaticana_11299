@@ -1,6 +1,9 @@
 _repo: O-cancioneiro-portuguez-da-Vaticana_11299
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: O cancioneiro português da Vaticana
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Braga, Teófilo
@@ -20,6 +23,8 @@ description: "Produced by Distributed Proofreaders Europe, http://dp.rastko.net\
   Project by Carlo Traverso and Moises Gaudencio\r\nThis file was produced from images\
   \ generously made available by the\r\nBibliothèque nationale de France (BnF/Gallica)\
   \ at http://gallica.bnf.fr."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11299#O-cancioneiro-portuguez-da-Vaticana
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
